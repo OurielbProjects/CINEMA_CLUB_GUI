@@ -25,4 +25,4 @@ The application stores data in a JSON file, ensuring persistent storage of movie
 1. Ensure you have Python installed on your system.
 2. Install the PySide2 library using the command: pip install PySide2.
 3. Run the Python script by launching the file containing the code.
-4. An executable file was added to simplify the launch. (Ciné Club_APP.exe)
+4. An executable file was added to simplify the launch. (Ciné Club_APP.lnk)
